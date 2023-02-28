@@ -10,7 +10,7 @@ public class Menu {
 	public static void main(String[] args) {
 		int opcion = 0;
 		do {
-			String menu = "1. Opcion1\n2. Opcion 2";
+			String menu = "1. Opcion1\n2. Opcion 2"; 
 			String [] menu_array = {"1. Opcion1","2. Opcion 2"};
 			String menu_carcateres = "1. Opcion1;2. Opcion 2";
 			//UtilidadesEjercicios.pintaMenu(menu_array);
