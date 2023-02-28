@@ -12,7 +12,7 @@ public class Menu {
 		do {
 			String menu = "1. Opcion1\n2. Opcion 2";  
 			String [] menu_array = {"1. Opcion1","2. Opcion 2"};
-			String menu_carcateres = "1. Opcion1;2. Opcion 2;3. Opcion 3";
+			String menu_carcateres = "1. Opcion1;2. Opcion 2;3. Opcion 3;4. Opcion 4";
 			//UtilidadesEjercicios.pintaMenu(menu_array);
 			UtilidadesEjercicios.pintaMenu(menu_carcateres,";");
 
